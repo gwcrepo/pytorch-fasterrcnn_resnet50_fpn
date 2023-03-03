@@ -1,4 +1,4 @@
-# pytorch-fasterrcnn_resnet50_fpn
+# 使用fasterrcnn_resnet50_fpn模型通过摄像头实现目标检测
 ## 1 代码概述
 - 使用torchvision.models.detection.fasterrcnn_resnet50_fpn实现目标检测
 - 模型参数：pretrained=True（预训练），weights=COCO_V1（使用COCO作为预训练权重）
